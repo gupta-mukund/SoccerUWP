@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "325cc204-52d9-4ea0-a7e4-8cb88deb0c5e": {
+      "ProjectGuid": "325cc204-52d9-4ea0-a7e4-8cb88deb0c5e",
+      "DisplayName": "Soccer",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
